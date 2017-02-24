@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		010C492F1E58AAED003CD212 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C49271E58AAED003CD212 /* 1.png */; };
+		010C49301E58AAED003CD212 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C49281E58AAED003CD212 /* 2.png */; };
+		010C49311E58AAED003CD212 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C49291E58AAED003CD212 /* 3.png */; };
+		010C49321E58AAED003CD212 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C492A1E58AAED003CD212 /* 4.png */; };
+		010C49331E58AAED003CD212 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C492B1E58AAED003CD212 /* 5.png */; };
+		010C49341E58AAED003CD212 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C492C1E58AAED003CD212 /* 6.png */; };
+		010C49351E58AAED003CD212 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C492D1E58AAED003CD212 /* 7.png */; };
+		010C49361E58AAED003CD212 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 010C492E1E58AAED003CD212 /* 8.png */; };
+		0165628D1E59B3D700F67BFA /* bg-card.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0165628C1E59B3D700F67BFA /* bg-card.jpg */; };
 		01D0FFD41E586E8E003EFF95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0FFD31E586E8E003EFF95 /* AppDelegate.swift */; };
 		01D0FFD61E586E8E003EFF95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0FFD51E586E8E003EFF95 /* ViewController.swift */; };
 		01D0FFD91E586E8E003EFF95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01D0FFD71E586E8E003EFF95 /* Main.storyboard */; };
@@ -14,6 +23,9 @@
 		01D0FFDE1E586E8E003EFF95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01D0FFDC1E586E8E003EFF95 /* LaunchScreen.storyboard */; };
 		01D0FFE91E586E8F003EFF95 /* Memory_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0FFE81E586E8F003EFF95 /* Memory_GameTests.swift */; };
 		01D0FFF41E586E8F003EFF95 /* Memory_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D0FFF31E586E8F003EFF95 /* Memory_GameUITests.swift */; };
+		01E55C3A1E5F6CB3005637A0 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E55C391E5F6CB3005637A0 /* icon.png */; };
+		01E55C3C1E5F6DE4005637A0 /* Appicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E55C3B1E5F6DE4005637A0 /* Appicon.png */; };
+		01E55C3E1E5F6FF8005637A0 /* ow.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E55C3D1E5F6FF8005637A0 /* ow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +46,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		010C49271E58AAED003CD212 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		010C49281E58AAED003CD212 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		010C49291E58AAED003CD212 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		010C492A1E58AAED003CD212 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		010C492B1E58AAED003CD212 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		010C492C1E58AAED003CD212 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		010C492D1E58AAED003CD212 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		010C492E1E58AAED003CD212 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		0165628C1E59B3D700F67BFA /* bg-card.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bg-card.jpg"; sourceTree = "<group>"; };
 		01D0FFD01E586E8E003EFF95 /* Memory Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Memory Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D0FFD31E586E8E003EFF95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01D0FFD51E586E8E003EFF95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +68,9 @@
 		01D0FFEF1E586E8F003EFF95 /* Memory GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Memory GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D0FFF31E586E8F003EFF95 /* Memory_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memory_GameUITests.swift; sourceTree = "<group>"; };
 		01D0FFF51E586E8F003EFF95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01E55C391E5F6CB3005637A0 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		01E55C3B1E5F6DE4005637A0 /* Appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Appicon.png; sourceTree = "<group>"; };
+		01E55C3D1E5F6FF8005637A0 /* ow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +121,18 @@
 		01D0FFD21E586E8E003EFF95 /* Memory Game */ = {
 			isa = PBXGroup;
 			children = (
+				0165628C1E59B3D700F67BFA /* bg-card.jpg */,
+				010C49271E58AAED003CD212 /* 1.png */,
+				010C49281E58AAED003CD212 /* 2.png */,
+				010C49291E58AAED003CD212 /* 3.png */,
+				010C492A1E58AAED003CD212 /* 4.png */,
+				01E55C3D1E5F6FF8005637A0 /* ow.png */,
+				01E55C3B1E5F6DE4005637A0 /* Appicon.png */,
+				010C492B1E58AAED003CD212 /* 5.png */,
+				010C492C1E58AAED003CD212 /* 6.png */,
+				01E55C391E5F6CB3005637A0 /* icon.png */,
+				010C492D1E58AAED003CD212 /* 7.png */,
+				010C492E1E58AAED003CD212 /* 8.png */,
 				01D0FFD31E586E8E003EFF95 /* AppDelegate.swift */,
 				01D0FFD51E586E8E003EFF95 /* ViewController.swift */,
 				01D0FFD71E586E8E003EFF95 /* Main.storyboard */,
@@ -232,7 +268,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01E55C3A1E5F6CB3005637A0 /* icon.png in Resources */,
+				010C49361E58AAED003CD212 /* 8.png in Resources */,
 				01D0FFDE1E586E8E003EFF95 /* LaunchScreen.storyboard in Resources */,
+				0165628D1E59B3D700F67BFA /* bg-card.jpg in Resources */,
+				010C49321E58AAED003CD212 /* 4.png in Resources */,
+				01E55C3E1E5F6FF8005637A0 /* ow.png in Resources */,
+				010C492F1E58AAED003CD212 /* 1.png in Resources */,
+				010C49341E58AAED003CD212 /* 6.png in Resources */,
+				010C49301E58AAED003CD212 /* 2.png in Resources */,
+				01E55C3C1E5F6DE4005637A0 /* Appicon.png in Resources */,
+				010C49311E58AAED003CD212 /* 3.png in Resources */,
+				010C49331E58AAED003CD212 /* 5.png in Resources */,
+				010C49351E58AAED003CD212 /* 7.png in Resources */,
 				01D0FFDB1E586E8E003EFF95 /* Assets.xcassets in Resources */,
 				01D0FFD91E586E8E003EFF95 /* Main.storyboard in Resources */,
 			);
@@ -428,6 +476,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "NW.Memory-Game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -440,6 +489,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "NW.Memory-Game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -503,6 +553,7 @@
 				01D0FFFA1E586E8F003EFF95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01D0FFFB1E586E8F003EFF95 /* Build configuration list for PBXNativeTarget "Memory GameTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +562,7 @@
 				01D0FFFD1E586E8F003EFF95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01D0FFFE1E586E8F003EFF95 /* Build configuration list for PBXNativeTarget "Memory GameUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +571,7 @@
 				01D000001E586E8F003EFF95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
